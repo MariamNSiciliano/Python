@@ -23,11 +23,12 @@
 ​-Geração de gráficos de dispersão (Scatter Plots) utilizando matplotlib.  
 ​-Exemplos de visualização de resultados de modelos preditivos.  
 ​
-#Tecnologias Utilizadas
-​##Python 3  
-​##NumPy
-​##Pandas
-​##Matplotlib
-​##Google Colab (ambiente de desenvolvimento)  
-​Como visualizar
-​Você pode abrir o notebook diretamente no Google Colab através do link disponível no cabeçalho do arquivo ou clonar este repositório para execução local
+# Tecnologias Utilizadas
+​- Python 3  
+​- NumPy
+​- Pandas
+​- Matplotlib
+​- Google Colab (ambiente de desenvolvimento)  
+
+# ​Como visualizar
+​Você pode abrir o notebook diretamente no Google Colab através do link disponível no cabeçalho do arquivo ou clonar este repositório para execução local.
