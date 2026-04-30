@@ -1,9 +1,9 @@
 # Python
 
-​##Projeto de Estudos: Fundamentos de Python para Data Science
+​## Projeto de Estudos: Fundamentos de Python para Data Science
 ​Este repositório contém um notebook interativo desenvolvido no Google Colab que aborda conceitos fundamentais e bibliotecas essenciais para análise de dados e cálculos científicos em Python.
 ​
-#Conteúdo do Notebook
+# Conteúdo do Notebook
 ​O arquivo Python.ipynb está dividido em seções práticas cobrindo:
 ​###1. NumPy
 ​Exploração da principal biblioteca para cálculos numéricos e manipulação de arrays multidimensionais.  
